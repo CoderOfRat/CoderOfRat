@@ -8,3 +8,6 @@
 - Welcome To Viste My Site: [SunnyRatArea](https://coderofrat.github.io/SunnyRatArea/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderofrat&show_icons=true&icon_color=58a6ff&text_color=333333&bg_color=ffffff&hide_title=true)
+
+#### Coding Language
+<figure><embed src="https://wakatime.com/share/@CoderOfRat/b53ba480-e081-47ba-8eb2-ef102f132c38.svg"></embed></figure>
