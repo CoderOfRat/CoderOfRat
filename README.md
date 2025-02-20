@@ -11,5 +11,3 @@
 
 #### Coding Language
 ![wakatime](https://wakatime.com/share/@CoderOfRat/b53ba480-e081-47ba-8eb2-ef102f132c38.svg)
-![wakatime](https://wakatime.com/badge/user/e52999f2-c6cb-40cd-81e2-52eac6413d15.svg)
-<figure><svg src="https://wakatime.com/share/@CoderOfRat/b53ba480-e081-47ba-8eb2-ef102f132c38.svg"></svg></figure>
